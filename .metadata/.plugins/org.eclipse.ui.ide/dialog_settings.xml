@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Ardent_Sprig\Many_To_One_Select_1_Children_with_Parent"/>
+			<item value="C:\Users\HP\Desktop\New folder (2)\Many_To_One_Select_1_Children_with_Parent"/>
+			<item value="C:\Users\HP\Desktop\One_to_Many_Insert_Parent_With_Childeren"/>
+			<item value="C:\Users\HP\Desktop\SpringMVCBasic"/>
+			<item value="C:\Ardent_Sprig\HibernateManyToManyAnno"/>
+			<item value="C:\Ardent_Sprig\One-to-One-Relationship"/>
+			<item value="C:\Ardent_Sprig\Hibernate-One-To_One _Anno"/>
+			<item value="C:\Users\HP\Desktop\Many_To_One_Select_all_Children_with_Parents"/>
+			<item value="C:\Users\HP\Desktop\Many_To_One_Select_1_Children_with_Parent"/>
+			<item value="C:\Ardent_Sprig\Mapping_List_In_Collection_Mapping"/>
+			<item value="C:\Ardent_Sprig\listonetomany"/>
+			<item value="C:\Ardent_Sprig\liststring"/>
+			<item value="C:\Users\HP\Desktop\listonetomany"/>
+			<item value="C:\Users\HP\Desktop\liststring"/>
+			<item value="C:\Users\HP\Desktop\inheritance3"/>
+			<item value="C:\Ardent_Sprig\inheritance2"/>
+			<item value="C:\Users\HP\Desktop\Table_Per_Concrete_Class"/>
+			<item value="C:\Users\HP\Desktop\sphbintegration"/>
+			<item value="C:\Ardent_Sprig\code"/>
+			<item value="D:\Amitava Sir Ardent all document\login-annotation"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.fusesource.ide.newwizards"/>
+			<item value="org.jboss.tools.central.ui.wizard.category"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>

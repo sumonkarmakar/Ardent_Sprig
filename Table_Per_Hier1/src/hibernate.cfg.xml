@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<!-- <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://myhost.com/Elements" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" targetNamespace="http://myhost.com/Elements" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+    <xs:element name="myelement"/>
+</xs:schema> -->
+
+<mapping class="com.javat.Employee"/>  
+<mapping class="com.javat.Contract_Employee"/>  
+<mapping class="com.javat.Regular_Employee"/>  
+</pre></div>  
+<table >  
+<tr><td>Now the configuration file will look like this:  
+</td></tr>  
+</table>  
+<span id="filename">File: hibernate.cfg.xml</span>  
+<div class="codeblock"><pre name="code" class="java" >
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
+        <property name="hibernate.connection.password">root</property>
+        <property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521:orcl</property>
+        <property name="hibernate.connection.username">system</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
+    </session-factory>
+</hibernate-configuration>

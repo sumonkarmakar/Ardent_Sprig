@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/Assets_Bobby/DB bobby/jdbc/Kron_F/WebContent/WEB-INF/lib/classes12.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/asm.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/hibernate3.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/jta.jar"/>
+	<classpathentry kind="lib" path="F:/Write/hibernate-3.2/lib/m/log4j-1.2.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

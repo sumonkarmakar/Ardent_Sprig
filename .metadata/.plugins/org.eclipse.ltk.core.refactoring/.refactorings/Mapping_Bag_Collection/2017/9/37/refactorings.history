@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Mapping_Bag_Collection/src/com/javat/Question.hbm.xml&apos; to &apos;question.hbm.xml&apos;" description="Rename resource &apos;Question.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/javat/Question.hbm.xml" name="question.hbm.xml" stamp="1505276154921" updateReferences="true"/>
+</session>

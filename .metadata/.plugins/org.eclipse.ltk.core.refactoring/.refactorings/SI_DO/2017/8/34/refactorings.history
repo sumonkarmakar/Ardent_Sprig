@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.javatpoint&apos; to &apos;com.javat&apos;&#x0D;&#x0A;- Original project: &apos;SI_DO&apos;&#x0D;&#x0A;- Original element: &apos;SI_DO/src/com.javatpoint&apos;&#x0D;&#x0A;- Renamed element: &apos;SI_DO/src/com.javat&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.javatpoint&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.javatpoint" name="com.javat" qualified="false" references="true" stamp="1503459749816" textual="false" version="1.0"/>
+</session>

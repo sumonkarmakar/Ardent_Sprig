@@ -1,0 +1,18 @@
+// Demonstrate Prepared Statement
+package com.javat;
+
+/**
+ * @author HP
+ *
+ */
+public class PreparedStatement {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

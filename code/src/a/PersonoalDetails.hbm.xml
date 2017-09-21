@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 25 May, 2016 2:16:03 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="a.Emp" table="kmn12">
+        <id name="id" type="java.lang.Integer">
+            <column name="PID" />
+            <generator class="increment" />
+        </id>
+        <property name="name" column="fname"/>
+       
+        <component name="a" class="a.Address">
+        <property name="city" column="pa_city"/>
+                
+        </component>
+        
+    </class>
+</hibernate-mapping>

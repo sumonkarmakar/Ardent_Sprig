@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Ardent_Sprig\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3886208443.index
+3066012288.index
+1931123985.index
+2335480856.index
+2644560875.index
+1297013223.index
+2654816759.index
+1195284118.index

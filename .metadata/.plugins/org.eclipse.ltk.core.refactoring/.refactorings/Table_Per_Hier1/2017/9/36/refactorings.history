@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.javat.StoreTest&apos; to &apos;StoreData&apos;&#x0D;&#x0A;- Original project: &apos;Table_Per_Hier1&apos;&#x0D;&#x0A;- Original element: &apos;com.javat.StoreTest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.javat.StoreData&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StoreTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.javat{StoreTest.java[StoreTest" matchStrategy="1" name="StoreData" qualified="false" references="true" similarDeclarations="false" stamp="1504977717375" textual="false" version="1.0"/>
+</session>

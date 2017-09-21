@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.javat;
+
+import java.sql.*;
+/**
+ * @author HP
+ *
+ */
+public class FetchRecord {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
